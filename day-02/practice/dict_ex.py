@@ -16,4 +16,4 @@ info.update({"channel": "TrainWithShubham"})
 print(dir(info))
 
 for key,value in info.items():
-    print(key,value)
+    print(key,value) 
